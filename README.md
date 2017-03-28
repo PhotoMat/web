@@ -1,2 +1,2 @@
-# web
-web del PhotoMat
+# lmoa
+Sitio web del Laboratorio de Microscopio Óptica Avanzada
